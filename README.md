@@ -1,8 +1,4 @@
-#BUYKARO
-
-# effective-charging-discharging-planning-for-electric-vehicles
-
-
+# BUYKARO
 
 Welcome to our Website!!! Our Website has:
 
