@@ -1,8 +1,6 @@
-#BUY KARO
+#BUYKARO
 
-Welcome to our Website!!!
-
-Desktop Version :
+Welcome to our Website!!! Our Website has:
 
 1. Home Page:
 
