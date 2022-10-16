@@ -1,6 +1,6 @@
 # BUYKARO
 
-Welcome to our Website!!! Our Website has:
+Welcome to our Website!!!
 
 1. Home Page:
 
